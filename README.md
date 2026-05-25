@@ -18,16 +18,17 @@
 </div>
 
 ---
+## 🕹️ Play a Text Adventure with the Data Scientist! 🌌
 
-## 🕹️ Play a Game With Me!
-> 🔴 **Connect Four:** Click on any of the numbers (**1 to 7**) to drop your purple coin and try to defeat the AI!
+> 🤖 **The Situation:** You are a Recruiter exploring a mysterious GitHub Profile. Suddenly, a wild Data Bug appears and locks the codebase! **What do you do?**
 
-<div align="center">
-  <img src="https://github-readme-connect-four.vercel.app/api?user=Heshan1122&color=a855f7" alt="Connect Four Game" />
-</div>
+* **[Option A: Deploy a Machine Learning Model to predict and destroy the bug! 🧠](https://github.com/Heshan1122)**
+* **[Option B: Run a complex SQL query to isolate the bug in a secure database table! 📊](https://github.com/Heshan1122)**
+* **[Option C: Panic and send an urgent Email to Heshan for backup! ✉️](mailto:jeewantaheshan1122@gmail.com)**
+
+*(Clicking Option A or B will bring you safely back to my profile to explore my projects! Click Option C to send me a direct email!)*
 
 ---
-
 ## 🧠 About Me
 
 <table align="center" width="100%">
