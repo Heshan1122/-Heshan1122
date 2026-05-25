@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=BD93F9&background=0F172A&center=true&vCenter=true&width=600&height=80&lines=Heshan+Jeewantha" alt="Heshan Jeewantha 3D Outline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=BD93F9&background=0F172A00&center=true&vCenter=true&width=600&height=80&lines=Heshan+Jeewantha" alt="Heshan Jeewantha 3D Outline" />
 
   <p align="center">
     <strong>Computer Science Undergraduate • Aspiring Data Scientist • Building with Data 🚀</strong>
